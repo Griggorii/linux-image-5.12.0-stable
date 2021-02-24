@@ -9,7 +9,7 @@ deb: https://github.com/Griggorii/linux-image-5.12.0-stable/releases/tag/linux-i
 
 Module example i3 Notebook
 
--Loaded Modules-
+ -Loaded Modules-
 rfcomm		: Bluetooth RFCOMM ver 1.11
 iptable_mangle		: iptables mangle table
 iptable_raw
