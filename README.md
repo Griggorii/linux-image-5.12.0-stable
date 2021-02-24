@@ -1,7 +1,7 @@
 # linux-image-5.12.0-stable
 kernel , image , mount good , merge config , gcc-10 , + obs cam support + new fs support , tty F7 F2 | gdm3 lock F1 emulation , inlock F2 and F7 , wayland support
 
-deb:
+deb: https://github.com/Griggorii/linux-image-5.12.0-stable/releases/tag/linux-image-5.12.0-stable
 
 Решена проблема управления блютус управления.
 
