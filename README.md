@@ -1,5 +1,5 @@
 # linux-image-5.12.0-stable
-kernel , image , mount good , merge config , gcc-10 , + obs cam support + new fs support , tty F5 F7 F2 | gdm3 lock F1 emulation , inlock F2 and А5 F7 , wayland support , CONFIG_KERNEL_LZ4=y , nouveau: nVidia Riva/TNT/GeForce/Quadro/Tesla
+kernel , image , mount good , merge config , gcc-10 , + obs cam support + new fs support , tty F5 F7 F2 | gdm3 lock F1 emulation , inlock F2 and А5 F7 , wayland support , CONFIG_KERNEL_LZ4=y , nouveau: nVidia Riva/TNT/GeForce/Quadro/Tesla , all drm support 
 
 deb: https://github.com/Griggorii/linux-image-5.12.0-stable/releases/tag/linux-image-5.12.0-stable
 
