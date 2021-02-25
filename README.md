@@ -3,9 +3,11 @@ kernel , image , mount good , merge config , gcc-10 , + obs cam support + new fs
 
 deb: https://github.com/Griggorii/linux-image-5.12.0-stable/releases/tag/linux-image-5.12.0-stable
 
-Решена проблема управления блютус управления. Donate support kernel clean carma corporations: https://yoomoney.ru/to/410014959813799
+Donate support kernel clean carma corporations: https://yoomoney.ru/to/410014959813799
 
 Example /boot/initrd.img-5.12.0 copy to developer folder rename initrd.img-5.12.0.tar.gz view arhive structure
+
+Support firewalD + ufw bad support
 
 FS: '9p' 'adfs' 'affs' 'afs' 'aufs' 'autofs4' 'befs' 'bfs' 'btrfs' 'cachefiles' 'ceph' 'cifs' 'coda' 'configfs' 'cramfs' 'dlm' 'ecryptfs' 'efivarfs' 'efs' 'f2fs' 'fat' 'freevxfs' 'fscache' 'fuse' 'gfs2' 'hfs' 'hfsplus' 'hpfs' 'isofs' 'jffs2' 'jfs' 'lockd' 'logfs' 'minix' 'ncpfs' 'nfs' 'nfs_common' 'nfsd' 'nilfs2' 'nls' 'ntfs' 'ocfs2' 'omfs' 'overlayfs' 'pstore' 'qnx4' 'qnx6' 'quota' 'reiserfs' 'romfs' 'squashfs' 'sysv' 'ubifs' 'udf' 'ufs' 'xfs'
 
