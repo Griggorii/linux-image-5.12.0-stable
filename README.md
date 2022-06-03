@@ -3,8 +3,6 @@ kernel , image , mount good , merge config , gcc-10 , + obs cam support + new fs
 
 deb: https://github.com/Griggorii/linux-image-5.12.0-stable/releases/tag/linux-image-5.12.0-stable
 
-Donate support kernel clean carma corporations: https://yoomoney.ru/to/410014959813799
-
 Example /boot/initrd.img-5.12.0 copy to developer folder rename initrd.img-5.12.0.tar.gz view arhive structure
 
 Support firewallD + ufw bad support
